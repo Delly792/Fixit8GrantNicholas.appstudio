@@ -8,3 +8,5 @@ for (i = 0; i < numbers.length; i++) {
   runningTotal = multiply(numbers[i], runningTotal)
   }
 console.log(`The product of the numbers is ${runningTotal}.`)
+
+//hi
